@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # isu-manage
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# VueProj
+>>>>>>> 2821001f9d102d22cd0520439222dcac452aeac2
